@@ -4,3 +4,5 @@ add issue-1
 =======
 dev branch
 >>>>>>> dev
+add new dev
+master
